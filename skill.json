@@ -1,0 +1,19 @@
+{
+  "name": "genpark-simplex-algorithm-linear-programming-skill",
+  "version": "1.0.0",
+  "description": "Simplex tableau algorithm for primal linear programming (LP) with slack variables and pivot operations",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "linear-programming",
+    "simplex-algorithm",
+    "convex-optimization",
+    "operations-research",
+    "mathematical-optimization",
+    "tableau-method",
+    "python-standard-library",
+    "agent-skills",
+    "resource-allocation",
+    "constrained-optimization"
+  ]
+}

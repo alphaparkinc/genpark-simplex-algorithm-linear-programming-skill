@@ -1,0 +1,5 @@
+name: genpark-simplex-algorithm-linear-programming-skill
+description: Simplex tableau algorithm for primal linear programming (LP) with slack variables and pivot operations
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
